@@ -1,4 +1,4 @@
-# ml_image_recognizer_example
+# ml_image_recognizer
 
 A new Flutter project.
 
